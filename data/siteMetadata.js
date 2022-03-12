@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.playground.com.mx',
   siteRepo: 'https://github.com/DanCaldera/playground-blog',
-  siteLogo: '/static/images/logo.svg',
+  siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'bdcaldera@gmail.com',
